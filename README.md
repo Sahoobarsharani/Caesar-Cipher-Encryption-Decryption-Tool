@@ -4,9 +4,13 @@ This is a Java-based tool that implements the Caesar Cipher algorithm for encryp
 
 # Features
 ✅ Encrypts plaintext using the Caesar Cipher algorithm
+
 ✅ Decrypts ciphertext back to plaintext
+
 ✅ Allows users to specify a custom shift key
+
 ✅ Supports both uppercase and lowercase letters
+
 ✅ Ignores non-alphabetic characters for better usability
 
 # How It Works
